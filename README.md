@@ -1,1 +1,1 @@
-![Descrição da imagem](sp-net.png)
+![Descrição da imagem](movies_colors.png)
